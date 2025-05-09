@@ -24,7 +24,7 @@ git clone https://github.com/W4CKY/WackyTerminal.git
 cd wacky-terminal
 gcc -o wackyterminal wackyterminal.c -lncurses
 
-4.
+5.
 ./wackyterminal
 
 This should run the terminal. Have fun!
