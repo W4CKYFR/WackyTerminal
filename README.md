@@ -21,14 +21,14 @@ sudo apt update
 
 sudo apt install build-essential libncurses5-dev
 
-3.
+2.
 git clone https://github.com/W4CKY/WackyTerminal.git
 
 cd WackyTerminal
 
 gcc wackyterminal.c -o wackyterminal -lncurses
 
-5.
+3.
 ./wackyterminal
 
 This should run the terminal. Have fun!
