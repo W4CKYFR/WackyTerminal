@@ -6,7 +6,11 @@
 .bash_history
 .bashrc
 .profile
-
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.sudo_as_admin_successful
 # Ignore node_modules and logs
 .npm/
 npm-debug.log
