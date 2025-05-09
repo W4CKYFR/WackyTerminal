@@ -19,12 +19,12 @@ On Debian/Ubuntu/WSL:
 sudo apt update
 sudo apt install build-essential libncurses5-dev
 
-2.
+3.
 git clone https://github.com/W4CKY/wacky-terminal.git
 cd wacky-terminal
 gcc -o wackyterminal wackyterminal.c -lncurses
 
-3.
+4.
 ./wackyterminal
 
 This should run the terminal. Have fun!
