@@ -14,17 +14,17 @@ libncurses development package
 
 ## Installation
 
-#1.
+##1.
 On Debian/Ubuntu/WSL:
 sudo apt update
 sudo apt install build-essential libncurses5-dev
 
-#2.
+##2.
 git clone https://github.com/W4CKY/wacky-terminal.git
 cd wacky-terminal
 gcc -o wackyterminal wackyterminal.c -lncurses
 
-#3.
+##3.
 ./wackyterminal
 
 This should run the terminal. Have fun!
