@@ -1,0 +1,13 @@
+# Ignore Vim swap files
+*.swp
+*.swo
+
+# Ignore system files
+.bash_history
+.bashrc
+.profile
+
+# Ignore node_modules and logs
+.npm/
+npm-debug.log
+
