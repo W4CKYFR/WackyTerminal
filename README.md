@@ -24,7 +24,7 @@ sudo apt install build-essential libncurses5-dev
 3.
 git clone https://github.com/W4CKY/WackyTerminal.git
 
-cd wacky-terminal
+cd WackyTerminal
 
 gcc -o wackyterminal wackyterminal.c -lncurses
 
