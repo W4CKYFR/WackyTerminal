@@ -1,6 +1,8 @@
 # Ignore Vim swap files
 *.swp
-*.swo
+*.log
+.npm/
+.vim/
 
 # Ignore system files
 .bash_history
