@@ -26,7 +26,7 @@ git clone https://github.com/W4CKY/WackyTerminal.git
 
 cd WackyTerminal
 
-gcc -o wackyterminal wackyterminal.c -lncurses
+gcc wackyterminal.c -o wackyterminal -lncurses
 
 5.
 ./wackyterminal
